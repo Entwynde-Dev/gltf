@@ -12,7 +12,7 @@ rust-version = "1.61"
 gltf-derive = { path = "../gltf-derive", version = "=1.4.1" }
 serde = "=1.0.229"
 serde_derive = "=1.0.229"
-serde_json = { features = ["raw_value"], version = "=1.0.151" }
+serde_json = { features = ["raw_value"], version = "=1.0.154" }
 
 [features]
 default = []
